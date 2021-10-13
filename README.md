@@ -29,7 +29,7 @@
 
 
 # Projects Page
-<img src="./resources/images/DevSearch Projects.png">  
+<img src="./resources/images/Devsearch Projects.png">  
 
 # Profile Page
 <img src="./resources/images/Devsearch Profile.png">  
