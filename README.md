@@ -25,15 +25,15 @@
 * Django REST Framework
 
 # Home Page
-<img src="./resources/images/Devsearch Home.jpg">  
+<img src="./resources/images/Devsearch Home.png">  
 
 
 # Projects Page
-<img src="./resources/images/DevSearch Projects.jpg">  
+<img src="./resources/images/DevSearch Projects.png">  
 
 # Profile Page
-<img src="./resources/images/Devsearch Profile.jpg">  
+<img src="./resources/images/Devsearch Profile.png">  
 
 # User Inbox
-<img src="./resources/images/Devsearch Inbox.jpg">  
+<img src="./resources/images/Devsearch Inbox.png">  
 
